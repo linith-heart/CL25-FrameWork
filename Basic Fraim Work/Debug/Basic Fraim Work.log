@@ -1,0 +1,60 @@
+﻿7/11/2018 11:39:00 AM にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\kazu\Documents\Visual Studio 2015\Projects\Neir\Basic Fraim Work\Basic Fraim Work.vcxproj" (Build ターゲット)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (neir shmup.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt BG.cpp Bullet.cpp Game.cpp GameObject.cpp main.cpp Object.cpp ObjectList.cpp Player.cpp Result.cpp Titile.cpp TitleMenu.cpp TitleObject.cpp ZergStar.cpp
+         ZergStar.cpp
+         Player.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\neir\basic fraim work\player.cpp(271): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\neir\basic fraim work\player.cpp(272): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\neir\basic fraim work\player.cpp(301): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+         コードを生成中...
+     1>c:\users\kazu\documents\visual studio 2015\projects\neir\basic fraim work\texture.h(117): warning C4715: 'TextureList::GetTexture': 値を返さないコントロール パスがあります。
+         コンパイル中...
+         TitleObject.cpp
+         TitleMenu.cpp
+         Titile.cpp
+         Result.cpp
+         ObjectList.cpp
+         Object.cpp
+         main.cpp
+         GameObject.cpp
+         Game.cpp
+         Bullet.cpp
+         BG.cpp
+         コードを生成中...
+     1>c:\users\kazu\documents\visual studio 2015\projects\neir\basic fraim work\texture.h(117): warning C4715: 'TextureList::GetTexture': 値を返さないコントロール パスがあります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\neir\basic fraim work\2d_polygon.h(153): warning C4715: 'Polygon::SetVtxdata': 値を返さないコントロール パスがあります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\neir\basic fraim work\texture.h(117): warning C4715: 'TextureList::GetTexture': 値を返さないコントロール パスがあります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\neir\basic fraim work\objectlist.cpp(132): warning C4715: 'ObjectList::Search': 値を返さないコントロール パスがあります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\neir\basic fraim work\2d_polygon.h(153): warning C4715: 'Polygon::SetVtxdata': 値を返さないコントロール パスがあります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\neir\basic fraim work\texture.h(117): warning C4715: 'TextureList::GetTexture': 値を返さないコントロール パスがあります。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kazu\Documents\Visual Studio 2015\Projects\Neir\Debug\Basic Fraim Work.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\kazu\Documents\Visual Studio 2015\Projects\Neir\Debug\Basic Fraim Work.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kazu\Documents\Visual Studio 2015\Projects\Neir\Debug\Basic Fraim Work.lib" /MACHINE:X86 Debug\basic.obj
+         Debug\BG.obj
+         Debug\Bullet.obj
+         Debug\camera.obj
+         Debug\DebugData.obj
+         Debug\Game.obj
+         Debug\GameObject.obj
+         Debug\input.obj
+         Debug\light.obj
+         Debug\main.obj
+         Debug\mathWk.obj
+         Debug\meshwater.obj
+         Debug\Object.obj
+         Debug\ObjectList.obj
+         Debug\Player.obj
+         Debug\Result.obj
+         Debug\SceneManager.obj
+         Debug\Texture.obj
+         Debug\Titile.obj
+         Debug\TitleMenu.obj
+         Debug\TitleObject.obj
+         Debug\ZergStar.obj
+         Basic Fraim Work.vcxproj -> C:\Users\kazu\Documents\Visual Studio 2015\Projects\Neir\Debug\Basic Fraim Work.exe
+     1>プロジェクト "C:\Users\kazu\Documents\Visual Studio 2015\Projects\Neir\Basic Fraim Work\Basic Fraim Work.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:09.38

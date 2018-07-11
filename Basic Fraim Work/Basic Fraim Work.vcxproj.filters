@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\~Title">
+      <UniqueIdentifier>{dd22aaea-ac11-40f9-b4ee-2da79b30cc19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\~Game">
+      <UniqueIdentifier>{31c629b8-f2d4-4f39-9385-bcf462afd83d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\~Result">
+      <UniqueIdentifier>{79b8df2c-db79-4a0b-9d1a-ec4962dc8f3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\_main">
+      <UniqueIdentifier>{d184afa2-52e4-4ff5-a967-8594d90b48ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\_object">
+      <UniqueIdentifier>{1dee3202-9220-44f1-9e44-4bbd2bd773a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\_scene">
+      <UniqueIdentifier>{dbad2532-ccdd-401e-8062-5730f717cbf6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\_scene\Game">
+      <UniqueIdentifier>{3d2fda61-74a3-4cf4-b09c-2ee0acbe97c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\_scene\Result">
+      <UniqueIdentifier>{1b9dcb1a-0b02-426b-beee-e220f36d58dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\_scene\Title">
+      <UniqueIdentifier>{2947d84a-8ffe-440d-a30e-cee9e6adeac1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\~Game">
+      <UniqueIdentifier>{bd253557-77e2-4353-a395-0add214eb06c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\~Result">
+      <UniqueIdentifier>{22deeae2-bf09-4987-9cde-6d023375ae0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\~Title">
+      <UniqueIdentifier>{5b919377-7d6d-4849-a4aa-f104d284deb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\_main">
+      <UniqueIdentifier>{9ad61ace-9d09-482e-a59d-df8a33be3298}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\_object">
+      <UniqueIdentifier>{e03095fd-9f4a-407c-80af-83fbb8129609}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\_object\sause">
+      <UniqueIdentifier>{767d04cd-c426-4245-a0fe-1b0a78d5230b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\_scene">
+      <UniqueIdentifier>{c80b38c8-610d-44f9-a47f-59bebbadda0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\_scene\Game">
+      <UniqueIdentifier>{78beaeda-c67f-4efa-b018-20ae83a18b47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\_scene\Result">
+      <UniqueIdentifier>{8068322d-386a-4d80-85f9-40433dad0f69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\_scene\Title">
+      <UniqueIdentifier>{4a60edc1-294c-4f43-87bd-bf0e93c50fd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Bullet">
+      <UniqueIdentifier>{b1236cb4-2ec0-4055-8aee-9226ade18fe1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Bullet">
+      <UniqueIdentifier>{2b6ffedf-139a-4f9f-8fa3-fb9ff46e516a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\_debug">
+      <UniqueIdentifier>{2e1d59f3-6d12-4bb7-a935-aa88ed3d0f0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\_debug">
+      <UniqueIdentifier>{3ddb4860-d565-4703-bc20-df09a1e72582}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Chara">
+      <UniqueIdentifier>{7d029624-fa49-4e53-8ad5-6c1274ccaeb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Chara">
+      <UniqueIdentifier>{64c921eb-8d19-4780-a203-52bd3fdfe50e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="basic.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="BG.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="light.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="mathWk.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="2D_Billboard.h">
+      <Filter>ヘッダー ファイル\_object\sause</Filter>
+    </ClInclude>
+    <ClInclude Include="2D_Polygon.h">
+      <Filter>ヘッダー ファイル\_object\sause</Filter>
+    </ClInclude>
+    <ClInclude Include="3D_Mesh.h">
+      <Filter>ヘッダー ファイル\_object\sause</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>ヘッダー ファイル\_object</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>ヘッダー ファイル\_scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>ヘッダー ファイル\_scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>ヘッダー ファイル\_scene\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Result.h">
+      <Filter>ヘッダー ファイル\_scene\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="Title.h">
+      <Filter>ヘッダー ファイル\_scene\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>ヘッダー ファイル\_main</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleObject.h">
+      <Filter>ヘッダー ファイル\_object</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>ヘッダー ファイル\_object\sause</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultObject.h">
+      <Filter>ヘッダー ファイル\_object</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleMenu.h">
+      <Filter>ヘッダー ファイル\~Title</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectList.h">
+      <Filter>ヘッダー ファイル\_object</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>ヘッダー ファイル\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugData.h">
+      <Filter>ヘッダー ファイル\_debug</Filter>
+    </ClInclude>
+    <ClInclude Include="meshwater.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>ヘッダー ファイル\Chara</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>ヘッダー ファイル\Chara</Filter>
+    </ClInclude>
+    <ClInclude Include="Npc.h">
+      <Filter>ヘッダー ファイル\Chara</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>ヘッダー ファイル\Chara</Filter>
+    </ClInclude>
+    <ClInclude Include="ZergStar.h">
+      <Filter>ヘッダー ファイル\Chara</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="basic.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="BG.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="input.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="light.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="mathWk.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル\_main</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>ソース ファイル\_scene\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Result.cpp">
+      <Filter>ソース ファイル\_scene\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="Titile.cpp">
+      <Filter>ソース ファイル\_scene\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>ソース ファイル\_object</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleObject.cpp">
+      <Filter>ソース ファイル\_object</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>ソース ファイル\_scene</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleMenu.cpp">
+      <Filter>ソース ファイル\~Title</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectList.cpp">
+      <Filter>ソース ファイル\_object</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>ソース ファイル\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>ソース ファイル\_object</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugData.cpp">
+      <Filter>ソース ファイル\_debug</Filter>
+    </ClCompile>
+    <ClCompile Include="meshwater.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>ソース ファイル\Chara</Filter>
+    </ClCompile>
+    <ClCompile Include="ZergStar.cpp">
+      <Filter>ソース ファイル\Chara</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

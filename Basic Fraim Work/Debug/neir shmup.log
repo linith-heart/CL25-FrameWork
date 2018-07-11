@@ -1,0 +1,30 @@
+﻿6/28/2018 6:04:47 PM にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\kazu\Documents\Visual Studio 2015\Projects\neir shmup\neir shmup\neir shmup.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt GameObject.cpp
+         GameObject.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kazu\Documents\Visual Studio 2015\Projects\neir shmup\Debug\neir shmup.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\kazu\Documents\Visual Studio 2015\Projects\neir shmup\Debug\neir shmup.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kazu\Documents\Visual Studio 2015\Projects\neir shmup\Debug\neir shmup.lib" /MACHINE:X86 Debug\basic.obj
+         Debug\BG.obj
+         Debug\BulletBill.obj
+         Debug\BulletBlank.obj
+         Debug\camera.obj
+         Debug\Game.obj
+         Debug\GameObject.obj
+         Debug\input.obj
+         Debug\light.obj
+         Debug\main.obj
+         Debug\mathWk.obj
+         Debug\meshfield.obj
+         Debug\Player.obj
+         Debug\Result.obj
+         Debug\SceneManager.obj
+         Debug\Texture.obj
+         Debug\Titile.obj
+         Debug\TitleMenu.obj
+         neir shmup.vcxproj -> C:\Users\kazu\Documents\Visual Studio 2015\Projects\neir shmup\Debug\neir shmup.exe
+     1>プロジェクト "C:\Users\kazu\Documents\Visual Studio 2015\Projects\neir shmup\neir shmup\neir shmup.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.00
