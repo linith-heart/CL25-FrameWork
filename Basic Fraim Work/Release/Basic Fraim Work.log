@@ -1,0 +1,65 @@
+﻿8/1/2018 7:28:12 PM にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "D:\file\GitHub\CL25-FrameWork\Basic Fraim Work\Basic Fraim Work.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt basic.cpp BG.cpp Bullet.cpp camera.cpp DebugData.cpp Game.cpp GameObject.cpp input.cpp light.cpp main.cpp mathWk.cpp meshwater.cpp Object.cpp ObjectList.cpp Player.cpp Result.cpp SceneManager.cpp Texture.cpp Titile.cpp TitleMenu.cpp TitleObject.cpp ZergStar.cpp
+         basic.cpp
+         BG.cpp
+         Bullet.cpp
+         camera.cpp
+         DebugData.cpp
+         Game.cpp
+         GameObject.cpp
+         input.cpp
+         light.cpp
+         main.cpp
+         mathWk.cpp
+     1>mathWk.cpp(80): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+         meshwater.cpp
+         Object.cpp
+         ObjectList.cpp
+         Player.cpp
+     1>Player.cpp(271): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>Player.cpp(272): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>Player.cpp(301): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+         Result.cpp
+         SceneManager.cpp
+         Texture.cpp
+         Titile.cpp
+         TitleMenu.cpp
+         コンパイル中...
+         TitleObject.cpp
+         ZergStar.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\file\GitHub\CL25-FrameWork\Release\Basic Fraim Work.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\file\GitHub\CL25-FrameWork\Release\Basic Fraim Work.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\file\GitHub\CL25-FrameWork\Release\Basic Fraim Work.lib" /MACHINE:X86 /SAFESEH Release\basic.obj
+         Release\BG.obj
+         Release\Bullet.obj
+         Release\camera.obj
+         Release\DebugData.obj
+         Release\Game.obj
+         Release\GameObject.obj
+         Release\input.obj
+         Release\light.obj
+         Release\main.obj
+         Release\mathWk.obj
+         Release\meshwater.obj
+         Release\Object.obj
+         Release\ObjectList.obj
+         Release\Player.obj
+         Release\Result.obj
+         Release\SceneManager.obj
+         Release\Texture.obj
+         Release\Titile.obj
+         Release\TitleMenu.obj
+         Release\TitleObject.obj
+         Release\ZergStar.obj
+         コード生成しています。
+     1>d:\file\github\cl25-framework\basic fraim work\texture.h(117): warning C4715: 'TextureList::GetTexture': 値を返さないコントロール パスがあります。
+     1>d:\file\github\cl25-framework\basic fraim work\2d_polygon.h(153): warning C4715: 'Polygon::SetVtxdata': 値を返さないコントロール パスがあります。
+         All 163 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         コード生成が終了しました。
+         Basic Fraim Work.vcxproj -> D:\file\GitHub\CL25-FrameWork\Release\Basic Fraim Work.exe
+     1>プロジェクト "D:\file\GitHub\CL25-FrameWork\Basic Fraim Work\Basic Fraim Work.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:10.73
